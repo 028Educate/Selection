@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\028 Educate\Code Solutions\Selection\bin\Debug\Selection.exe.config
+C:\Users\user\Desktop\028 Educate\Code Solutions\Selection\bin\Debug\Selection.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\Selection\bin\Debug\Selection.pdb
+C:\Users\user\Desktop\028 Educate\Code Solutions\Selection\obj\Debug\Selection.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\028 Educate\Code Solutions\Selection\obj\Debug\Selection.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\Selection\obj\Debug\Selection.pdb
